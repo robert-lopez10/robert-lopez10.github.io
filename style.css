@@ -4,7 +4,7 @@
    ============================================================ */
 :root {
   --accent: #7cc4ff;       /* headings, links, the line under headings */
-  --text: #1d2730;         /* main text color */
+  --text: #e6edf2         /* main text color */
   --background: #15202b;   /* page background */
   --card: #1e2d3b;         /* background behind each section */
   --font: "Segoe UI", Helvetica, Arial, sans-serif;
